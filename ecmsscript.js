@@ -5,6 +5,12 @@
 a.name = "siddhu"
 console.log(a.name) */
 
+/* const user = () => {
+    console.log("hello A function")
+}
+
+user(); */
+
 var a = "siddhu"
 var b = "dhumale"
 
